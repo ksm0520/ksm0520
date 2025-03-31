@@ -26,8 +26,6 @@
 
 ---
 
-### 🐾 GitHub Pets (귀엽게 꾸미기)
+### 🐾 GitHub Pets 
 
-<a href="https://github.com/zluvsand/github-readme-pets" target="_blank">
-  <img src="https://raw.githubusercontent.com/zluvsand/github-readme-pets/main/assets/pet.gif" width="200" />
-</a>
+<img src="https://raw.githubusercontent.com/zluvsand/github-readme-pets/main/assets/pet.gif" width="200" alt="GitHub Pets" />
