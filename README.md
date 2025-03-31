@@ -37,7 +37,7 @@
 
 ### 📫 Contact Me
 
-- Email: kimseungmin0520@gmail.com  every0520@naver.com
+- Email: kimseungmin0520@gmail.com  
 - Portfolio: (Notion, GitHub Pages, Tistory 등 아직 미정)
 
 ---
