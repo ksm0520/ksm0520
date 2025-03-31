@@ -4,6 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontSize=30&animation=fadeIn" />
 </p>
 
+
+
+---
+### 🐾 GitHub Pets 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="150" />
+</p>
 ---
 
 ### 🏆 GitHub Trophies
@@ -24,11 +34,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ksm0520&theme=radical&hide_border=true" />
 </p>
 
----
 
-### 🐾 GitHub Pets 
-
-<a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{ksm0520}" width="1000" height="120"/>
-</a>
 
