@@ -27,11 +27,7 @@
 ---
 
 ### 🐾 GitHub Pets (귀엽게 꾸미기)
-> 아래 방법으로 직접 넣을 수 있어 (자동 반영은 아님)
-1. 아래 프로젝트를 ⭐Star하고
-2. README에 복사해서 붙여넣기만 하면 돼!
 
-```markdown
 <a href="https://github.com/zluvsand/github-readme-pets" target="_blank">
   <img src="https://raw.githubusercontent.com/zluvsand/github-readme-pets/main/assets/pet.gif" width="200" />
 </a>
