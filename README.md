@@ -9,9 +9,10 @@
 ---
 ### 🐾 GitHub Pets 
 
-<p align="center">
-  <img src="https://github.com/printSANO/printSANO/assets/12345678/sample-image.png" width="800"/>
-</p>
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{ksm0520}" width="1000" height="120"/>
+</a>
+
 
 ---
 
