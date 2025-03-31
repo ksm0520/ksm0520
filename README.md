@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Seungmin</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontAlign=50&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontAlign=50&fontSize=30&animation=fadeIn" />
 
 </p>
 
