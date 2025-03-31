@@ -28,4 +28,7 @@
 
 ### 🐾 GitHub Pets 
 
-<img src="https://raw.githubusercontent.com/zluvsand/github-readme-pets/main/assets/pet.gif" width="200" alt="GitHub Pets" />
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{ksm0520}" width="1000" height="120"/>
+</a>
+
