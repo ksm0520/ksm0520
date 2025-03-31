@@ -9,11 +9,8 @@
 ---
 ### 🐾 GitHub Pets 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="150" />
-</p>
+🐱 🐶 🐰 🐢 🐧 🐸  
+> Seungmin's virtual pets are watching you code...
 ---
 
 ### 🏆 GitHub Trophies
