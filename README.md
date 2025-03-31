@@ -9,8 +9,10 @@
 ---
 ### 🐾 GitHub Pets 
 
-🐱 🐶 🐰 🐢 🐧 🐸  
-> Seungmin's virtual pets are watching you code...
+<p align="center">
+  <img src="https://github.com/printSANO/printSANO/assets/12345678/sample-image.png" width="800"/>
+</p>
+
 ---
 
 ### 🏆 GitHub Trophies
