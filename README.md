@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm <strong>Seungmin</strong></h1>
+<h1 align="center">Hi 👋 I'm <strong>Seungmin승민</strong></h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:ffd966&height=200&text=Welcome%20to%20my%20GitHub!&fontColor=000000&fontAlign=50&fontSize=30&animation=fadeIn" />
