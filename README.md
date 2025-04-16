@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/git-goods/gitanimals">
-    <img src="https://render.gitanimals.org/lines/ksm0520" width="1000" height="120"/>
+     <img src="https://render.gitanimals.org/farms/ksm0520"/>
   </a>
 </p>
 
