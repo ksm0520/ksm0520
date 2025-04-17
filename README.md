@@ -35,11 +35,14 @@
 
 ---
 
-### 📫 Contact Me
+📫 Contact Me
+Email: kimseungmin0520@gmail.com
 
-- Email: kimseungmin0520@gmail.com  
-- Portfolio: (Notion, GitHub Pages, Tistory 등 아직 미정)
+Medium: @kimseungmin0520
 
+Velog: @every0520
+
+Portfolio: 준비 중 (Notion, GitHub Pages, Tistory 등)
 ---
 
 <p align="center">Thanks for visiting! 🐧✨</p>
