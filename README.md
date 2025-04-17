@@ -36,13 +36,13 @@
 ---
 
 📫 Contact Me
-Email: kimseungmin0520@gmail.com
+### 📫 Contact Me
 
-Medium: @kimseungmin0520
+- Email: [kimseungmin0520@gmail.com](mailto:kimseungmin0520@gmail.com)  
+- Medium: [@kimseungmin0520](https://medium.com/@kimseungmin0520)  
+- Velog: [@every0520](https://velog.io/@every0520)  
+- Portfolio: 준비 중 (Notion, GitHub Pages, Tistory 등)
 
-Velog: @every0520
-
-Portfolio: 준비 중 (Notion, GitHub Pages, Tistory 등)
 ---
 
 <p align="center">Thanks for visiting! 🐧✨</p>
